@@ -112,6 +112,12 @@ const Footer = () => {
             </div>
           </div>
         </div>
+        <p>
+          <hr className="border-gray-700" />
+          <div className="container text-center py-6 text-sm">
+            &copy; 2025 Motoraeroplane. All rights reserved. Developed by Chetan Panchal
+          </div>
+        </p>
       </div>
     </div>
   );
