@@ -31,9 +31,9 @@ const bgImage = {
 };
 const Footer = () => {
   return (
-    <div style={bgImage} className=" text-white">
+    <div style={bgImage} className=" text-white z-100">
       <div className="bg-black/40 min-h-[400px]">
-        <div className="container grid md:grid-cols-3 pb-20 pt-5 z-10">
+        <div className="container grid md:grid-cols-3 pb-20 pt-5">
           {/* company details */}
           <div className="py-8 px-4">
             <a

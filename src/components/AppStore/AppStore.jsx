@@ -15,7 +15,7 @@ const AppStore = () => {
   return (
     <>
       <div className="py-14" style={backgroundStyle}>
-        <div className="container z-10">
+        <div className="container">
           <div className="grid sm:grid-cols-2 grid-cols-1 items-center gap-4">
             <div
               data-aos="fade-up"
